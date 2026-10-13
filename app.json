@@ -32,6 +32,13 @@
           "image": "./assets/images/splash-icon.png",
           "imageWidth": 76
         }
+      ],
+      [
+        "expo-image-picker",
+        {
+          "photosPermission": "Allow ReBites to access your photos so you can scan fridge items from your library.",
+          "cameraPermission": false
+        }
       ]
     ],
     "experiments": {
